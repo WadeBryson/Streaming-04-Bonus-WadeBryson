@@ -22,13 +22,13 @@ def callback(ch, method, properties, body):
     logger.info(f" [x] Received {body.decode()}")
 
     # Find New Perimeter is Side Length is Doubled
-    original_area = float(body.decode())
-    new_area = original_area*4
+    original_perimeter = float(body.decode())
+    new_perimeter = original_perimeter*2
 
     # Write the new CSV
-    with open('New_Area_If_Doubled_Sides_Of_Square.csv', 'x') as file:
+    with open('New_Perimeter_If_Doubled_Sides_Of_Square.csv', 'x') as file:
         writer = csv.writer(file, delimiter = ',')
-        writer.writerow([original_area, new_area])
+        writer.writerow([original_perimeter, new_perimeter])
    
     # when done with task, tell the user
     logger.info(" [x] Done.")
@@ -38,7 +38,7 @@ def callback(ch, method, properties, body):
 
 
 # define a main function to run the program
-def main(hn: str = "localhost", qn: str = "Area_Queue"):
+def main(hn: str = "localhost", qn: str = "Perimeter_Queue"):
     """ Continuously listen for task messages on a named queue."""
 
     # when a statement can go wrong, use a try-except block
@@ -104,4 +104,4 @@ def main(hn: str = "localhost", qn: str = "Area_Queue"):
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
     # call the main function with the information needed
-    main("localhost", "Area_Queue")
+    main("localhost", "Perimeter_Queue")
