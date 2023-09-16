@@ -1,16 +1,30 @@
-2023-09-16 12:58:00,504.Perimeter_Listener.INFO ==================================================
-2023-09-16 12:58:00,505.Perimeter_Listener.INFO Today is 2023-09-16 at 12:58 PM
-2023-09-16 12:58:00,505.Perimeter_Listener.INFO Running on: nt Windows 10
-2023-09-16 12:58:00,505.Perimeter_Listener.INFO Python version:  3.11.3
-2023-09-16 12:58:00,506.Perimeter_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
-2023-09-16 12:58:00,506.Perimeter_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
-2023-09-16 12:58:00,506.Perimeter_Listener.INFO ==================================================
-2023-09-16 12:58:00,524.Perimeter_Listener.INFO  [*] Ready for work. To exit press CTRL+C
-2023-09-16 12:58:16,015.Perimeter_Listener.INFO  [x] Received 4
-2023-09-16 12:58:16,016.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:58:19,018.Perimeter_Listener.INFO  [x] Received 8
-2023-09-16 12:58:19,019.Perimeter_Listener.ERROR ERROR: something went wrong.
-2023-09-16 12:58:19,019.Perimeter_Listener.ERROR The error says: [Errno 17] File exists: 'New_Perimeter_If_Doubled_Sides_Of_Square.csv'
-2023-09-16 12:58:19,020.Perimeter_Listener.INFO 
+2023-09-16 12:59:56,558.Perimeter_Listener.INFO ==================================================
+2023-09-16 12:59:56,559.Perimeter_Listener.INFO Today is 2023-09-16 at 12:59 PM
+2023-09-16 12:59:56,559.Perimeter_Listener.INFO Running on: nt Windows 10
+2023-09-16 12:59:56,559.Perimeter_Listener.INFO Python version:  3.11.3
+2023-09-16 12:59:56,560.Perimeter_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
+2023-09-16 12:59:56,560.Perimeter_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
+2023-09-16 12:59:56,560.Perimeter_Listener.INFO ==================================================
+2023-09-16 12:59:56,579.Perimeter_Listener.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-16 12:59:56,580.Perimeter_Listener.INFO  [x] Received 8
+2023-09-16 12:59:56,581.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 12:59:56,583.Perimeter_Listener.INFO  [x] Received 12
+2023-09-16 12:59:56,584.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 12:59:56,584.Perimeter_Listener.INFO  [x] Received 16
+2023-09-16 12:59:56,585.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 12:59:56,586.Perimeter_Listener.INFO  [x] Received 20
+2023-09-16 12:59:56,586.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 12:59:56,587.Perimeter_Listener.INFO  [x] Received 24
+2023-09-16 12:59:56,588.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 12:59:56,589.Perimeter_Listener.INFO  [x] Received 28
+2023-09-16 12:59:56,589.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 12:59:56,590.Perimeter_Listener.INFO  [x] Received 32
+2023-09-16 12:59:56,590.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 12:59:56,591.Perimeter_Listener.INFO  [x] Received 36
+2023-09-16 12:59:56,592.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 12:59:56,593.Perimeter_Listener.INFO  [x] Received 40
+2023-09-16 12:59:56,593.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:00:51,600.Perimeter_Listener.INFO  User interrupted continuous listening process.
+2023-09-16 13:00:51,601.Perimeter_Listener.INFO 
 Closing connection. See you later.
 
