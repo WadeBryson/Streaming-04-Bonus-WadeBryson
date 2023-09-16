@@ -26,7 +26,7 @@ def callback(ch, method, properties, body):
     new_area = original_area*4
 
     # Write the new CSV
-    with open('New_Area_If_Doubled_Sides_Of_Square.csv', 'x') as file:
+    with open('New_Area_If_Doubled_Sides_Of_Square.csv', 'a') as file:
         writer = csv.writer(file, delimiter = ',')
         writer.writerow([original_area, new_area])
    

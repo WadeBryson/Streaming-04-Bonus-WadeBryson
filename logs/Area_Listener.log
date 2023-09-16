@@ -1,0 +1,16 @@
+2023-09-16 12:57:55,447.Area_Listener.INFO ==================================================
+2023-09-16 12:57:55,447.Area_Listener.INFO Today is 2023-09-16 at 12:57 PM
+2023-09-16 12:57:55,448.Area_Listener.INFO Running on: nt Windows 10
+2023-09-16 12:57:55,448.Area_Listener.INFO Python version:  3.11.3
+2023-09-16 12:57:55,448.Area_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
+2023-09-16 12:57:55,448.Area_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
+2023-09-16 12:57:55,448.Area_Listener.INFO ==================================================
+2023-09-16 12:57:55,465.Area_Listener.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-16 12:58:16,016.Area_Listener.INFO  [x] Received 1
+2023-09-16 12:58:16,017.Area_Listener.INFO  [x] Done.
+2023-09-16 12:58:19,019.Area_Listener.INFO  [x] Received 4
+2023-09-16 12:58:19,019.Area_Listener.ERROR ERROR: something went wrong.
+2023-09-16 12:58:19,020.Area_Listener.ERROR The error says: [Errno 17] File exists: 'New_Area_If_Doubled_Sides_Of_Square.csv'
+2023-09-16 12:58:19,020.Area_Listener.INFO 
+Closing connection. See you later.
+
