@@ -58,19 +58,36 @@ def send_message(host: str, queue1_name: str, queue2_name: str, input_file: str)
             # skip header row
             header = next(reader)
             for row in reader:
-                # separate row into variables by column
-                Square Side Length  = row
-                # define first and second messages
-                first_message = str(country)
-                second_message = stars
+                # separate row into variables
+                Square_Side_Length, Perimeter, Area = row
+                # define messages
+                message1 = Perimeter
+                message2 = Area
                 # use the channel to publish first message to first queue
                 # every message passes through an exchange
-                ch.basic_publish(exchange="", routing_key=first_queue_name, body=first_message)
-                # print a message to the console for the user
-                logger.info(f" [x] Sent {first_message} to {first_queue_name}")
+                ch.basic_publish(exchange="", routing_key=queue1_name, body=message1)
+                logger.info(f" [x] Sent {message1} to {queue1_name}")
                 # publish second message to second queue
-                ch.basic_publish(exchange="", routing_key=second_queue_name, body=second_message)
-                # print a message to the console for the user
-                logger.info(f"[x] Sent {second_message} to {second_queue_name}")
+                ch.basic_publish(exchange="", routing_key=queue2_name, body=message2)
+                logger.info(f"[x] Sent {message2} to {queue2_name}")
                 # wait 3 seconds before sending the next message to the queue
                 time.sleep(3)
+
+    except pika.exceptions.AMQPConnectionError as e:
+        logger.info(f"Error: Connection to RabbitMQ server failed: {e}")
+        sys.exit(1)
+    finally:
+        # close the connection to the server
+        conn.close()
+
+# Standard Python idiom to indicate main program entry point
+# This allows us to import this module and use its functions
+# without executing the code below.
+# If this is the program being run, then execute the code below
+if __name__ == "__main__":  
+    # ask the user if they'd like to open the RabbitMQ Admin site
+    if Show_Offer == True:
+        offer_rabbitmq_admin_site()
+   
+    # send the message to the queue
+    send_message("localhost","Perimeter_Queue","Area_Queue", "Square_Data.csv")
