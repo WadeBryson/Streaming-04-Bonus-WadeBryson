@@ -1,27 +1,27 @@
-2023-09-16 12:58:11,824.Emitter.INFO ==================================================
-2023-09-16 12:58:11,825.Emitter.INFO Today is 2023-09-16 at 12:58 PM
-2023-09-16 12:58:11,825.Emitter.INFO Running on: nt Windows 10
-2023-09-16 12:58:11,825.Emitter.INFO Python version:  3.11.3
-2023-09-16 12:58:11,826.Emitter.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
-2023-09-16 12:58:11,826.Emitter.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
-2023-09-16 12:58:11,826.Emitter.INFO ==================================================
-2023-09-16 12:58:16,015.Emitter.INFO  [x] Sent 4 to Perimeter_Queue
-2023-09-16 12:58:16,015.Emitter.INFO [x] Sent 1 to Area_Queue
-2023-09-16 12:58:19,017.Emitter.INFO  [x] Sent 8 to Perimeter_Queue
-2023-09-16 12:58:19,018.Emitter.INFO [x] Sent 4 to Area_Queue
-2023-09-16 12:58:22,020.Emitter.INFO  [x] Sent 12 to Perimeter_Queue
-2023-09-16 12:58:22,021.Emitter.INFO [x] Sent 9 to Area_Queue
-2023-09-16 12:58:25,022.Emitter.INFO  [x] Sent 16 to Perimeter_Queue
-2023-09-16 12:58:25,022.Emitter.INFO [x] Sent 16 to Area_Queue
-2023-09-16 12:58:28,024.Emitter.INFO  [x] Sent 20 to Perimeter_Queue
-2023-09-16 12:58:28,025.Emitter.INFO [x] Sent 25 to Area_Queue
-2023-09-16 12:58:31,026.Emitter.INFO  [x] Sent 24 to Perimeter_Queue
-2023-09-16 12:58:31,027.Emitter.INFO [x] Sent 36 to Area_Queue
-2023-09-16 12:58:34,028.Emitter.INFO  [x] Sent 28 to Perimeter_Queue
-2023-09-16 12:58:34,029.Emitter.INFO [x] Sent 49 to Area_Queue
-2023-09-16 12:58:37,030.Emitter.INFO  [x] Sent 32 to Perimeter_Queue
-2023-09-16 12:58:37,030.Emitter.INFO [x] Sent 64 to Area_Queue
-2023-09-16 12:58:40,032.Emitter.INFO  [x] Sent 36 to Perimeter_Queue
-2023-09-16 12:58:40,033.Emitter.INFO [x] Sent 81 to Area_Queue
-2023-09-16 12:58:43,034.Emitter.INFO  [x] Sent 40 to Perimeter_Queue
-2023-09-16 12:58:43,034.Emitter.INFO [x] Sent 100 to Area_Queue
+2023-09-16 13:01:47,452.Emitter.INFO ==================================================
+2023-09-16 13:01:47,452.Emitter.INFO Today is 2023-09-16 at 01:01 PM
+2023-09-16 13:01:47,452.Emitter.INFO Running on: nt Windows 10
+2023-09-16 13:01:47,452.Emitter.INFO Python version:  3.11.3
+2023-09-16 13:01:47,453.Emitter.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
+2023-09-16 13:01:47,453.Emitter.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
+2023-09-16 13:01:47,453.Emitter.INFO ==================================================
+2023-09-16 13:01:51,257.Emitter.INFO  [x] Sent 4 to Perimeter_Queue
+2023-09-16 13:01:51,257.Emitter.INFO [x] Sent 1 to Area_Queue
+2023-09-16 13:01:54,258.Emitter.INFO  [x] Sent 8 to Perimeter_Queue
+2023-09-16 13:01:54,258.Emitter.INFO [x] Sent 4 to Area_Queue
+2023-09-16 13:01:57,260.Emitter.INFO  [x] Sent 12 to Perimeter_Queue
+2023-09-16 13:01:57,261.Emitter.INFO [x] Sent 9 to Area_Queue
+2023-09-16 13:02:00,262.Emitter.INFO  [x] Sent 16 to Perimeter_Queue
+2023-09-16 13:02:00,262.Emitter.INFO [x] Sent 16 to Area_Queue
+2023-09-16 13:02:03,264.Emitter.INFO  [x] Sent 20 to Perimeter_Queue
+2023-09-16 13:02:03,265.Emitter.INFO [x] Sent 25 to Area_Queue
+2023-09-16 13:02:06,266.Emitter.INFO  [x] Sent 24 to Perimeter_Queue
+2023-09-16 13:02:06,267.Emitter.INFO [x] Sent 36 to Area_Queue
+2023-09-16 13:02:09,269.Emitter.INFO  [x] Sent 28 to Perimeter_Queue
+2023-09-16 13:02:09,269.Emitter.INFO [x] Sent 49 to Area_Queue
+2023-09-16 13:02:12,270.Emitter.INFO  [x] Sent 32 to Perimeter_Queue
+2023-09-16 13:02:12,271.Emitter.INFO [x] Sent 64 to Area_Queue
+2023-09-16 13:02:15,272.Emitter.INFO  [x] Sent 36 to Perimeter_Queue
+2023-09-16 13:02:15,274.Emitter.INFO [x] Sent 81 to Area_Queue
+2023-09-16 13:02:18,275.Emitter.INFO  [x] Sent 40 to Perimeter_Queue
+2023-09-16 13:02:18,276.Emitter.INFO [x] Sent 100 to Area_Queue

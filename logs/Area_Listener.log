@@ -1,30 +1,32 @@
-2023-09-16 13:00:07,424.Area_Listener.INFO ==================================================
-2023-09-16 13:00:07,424.Area_Listener.INFO Today is 2023-09-16 at 01:00 PM
-2023-09-16 13:00:07,424.Area_Listener.INFO Running on: nt Windows 10
-2023-09-16 13:00:07,425.Area_Listener.INFO Python version:  3.11.3
-2023-09-16 13:00:07,425.Area_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
-2023-09-16 13:00:07,425.Area_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
-2023-09-16 13:00:07,426.Area_Listener.INFO ==================================================
-2023-09-16 13:00:07,444.Area_Listener.INFO  [*] Ready for work. To exit press CTRL+C
-2023-09-16 13:00:07,444.Area_Listener.INFO  [x] Received 4
-2023-09-16 13:00:07,445.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:07,445.Area_Listener.INFO  [x] Received 9
-2023-09-16 13:00:07,446.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:07,447.Area_Listener.INFO  [x] Received 16
-2023-09-16 13:00:07,447.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:07,448.Area_Listener.INFO  [x] Received 25
-2023-09-16 13:00:07,449.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:07,451.Area_Listener.INFO  [x] Received 36
-2023-09-16 13:00:07,453.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:07,455.Area_Listener.INFO  [x] Received 49
-2023-09-16 13:00:07,455.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:07,456.Area_Listener.INFO  [x] Received 64
-2023-09-16 13:00:07,457.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:07,458.Area_Listener.INFO  [x] Received 81
-2023-09-16 13:00:07,458.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:07,461.Area_Listener.INFO  [x] Received 100
-2023-09-16 13:00:07,462.Area_Listener.INFO  [x] Done.
-2023-09-16 13:00:42,448.Area_Listener.INFO  User interrupted continuous listening process.
-2023-09-16 13:00:42,449.Area_Listener.INFO 
+2023-09-16 13:01:31,214.Area_Listener.INFO ==================================================
+2023-09-16 13:01:31,214.Area_Listener.INFO Today is 2023-09-16 at 01:01 PM
+2023-09-16 13:01:31,214.Area_Listener.INFO Running on: nt Windows 10
+2023-09-16 13:01:31,215.Area_Listener.INFO Python version:  3.11.3
+2023-09-16 13:01:31,215.Area_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
+2023-09-16 13:01:31,215.Area_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
+2023-09-16 13:01:31,215.Area_Listener.INFO ==================================================
+2023-09-16 13:01:31,232.Area_Listener.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-16 13:01:51,258.Area_Listener.INFO  [x] Received 1
+2023-09-16 13:01:51,258.Area_Listener.INFO  [x] Done.
+2023-09-16 13:01:54,259.Area_Listener.INFO  [x] Received 4
+2023-09-16 13:01:54,260.Area_Listener.INFO  [x] Done.
+2023-09-16 13:01:57,273.Area_Listener.INFO  [x] Received 9
+2023-09-16 13:01:57,274.Area_Listener.INFO  [x] Done.
+2023-09-16 13:02:00,263.Area_Listener.INFO  [x] Received 16
+2023-09-16 13:02:00,264.Area_Listener.INFO  [x] Done.
+2023-09-16 13:02:03,266.Area_Listener.INFO  [x] Received 25
+2023-09-16 13:02:03,267.Area_Listener.INFO  [x] Done.
+2023-09-16 13:02:06,267.Area_Listener.INFO  [x] Received 36
+2023-09-16 13:02:06,268.Area_Listener.INFO  [x] Done.
+2023-09-16 13:02:09,270.Area_Listener.INFO  [x] Received 49
+2023-09-16 13:02:09,271.Area_Listener.INFO  [x] Done.
+2023-09-16 13:02:12,272.Area_Listener.INFO  [x] Received 64
+2023-09-16 13:02:12,272.Area_Listener.INFO  [x] Done.
+2023-09-16 13:02:15,275.Area_Listener.INFO  [x] Received 81
+2023-09-16 13:02:15,276.Area_Listener.INFO  [x] Done.
+2023-09-16 13:02:18,277.Area_Listener.INFO  [x] Received 100
+2023-09-16 13:02:18,278.Area_Listener.INFO  [x] Done.
+2023-09-16 13:03:01,247.Area_Listener.INFO  User interrupted continuous listening process.
+2023-09-16 13:03:01,248.Area_Listener.INFO 
 Closing connection. See you later.
 

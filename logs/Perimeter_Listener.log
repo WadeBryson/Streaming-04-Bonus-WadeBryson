@@ -1,30 +1,32 @@
-2023-09-16 12:59:56,558.Perimeter_Listener.INFO ==================================================
-2023-09-16 12:59:56,559.Perimeter_Listener.INFO Today is 2023-09-16 at 12:59 PM
-2023-09-16 12:59:56,559.Perimeter_Listener.INFO Running on: nt Windows 10
-2023-09-16 12:59:56,559.Perimeter_Listener.INFO Python version:  3.11.3
-2023-09-16 12:59:56,560.Perimeter_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
-2023-09-16 12:59:56,560.Perimeter_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
-2023-09-16 12:59:56,560.Perimeter_Listener.INFO ==================================================
-2023-09-16 12:59:56,579.Perimeter_Listener.INFO  [*] Ready for work. To exit press CTRL+C
-2023-09-16 12:59:56,580.Perimeter_Listener.INFO  [x] Received 8
-2023-09-16 12:59:56,581.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:59:56,583.Perimeter_Listener.INFO  [x] Received 12
-2023-09-16 12:59:56,584.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:59:56,584.Perimeter_Listener.INFO  [x] Received 16
-2023-09-16 12:59:56,585.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:59:56,586.Perimeter_Listener.INFO  [x] Received 20
-2023-09-16 12:59:56,586.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:59:56,587.Perimeter_Listener.INFO  [x] Received 24
-2023-09-16 12:59:56,588.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:59:56,589.Perimeter_Listener.INFO  [x] Received 28
-2023-09-16 12:59:56,589.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:59:56,590.Perimeter_Listener.INFO  [x] Received 32
-2023-09-16 12:59:56,590.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:59:56,591.Perimeter_Listener.INFO  [x] Received 36
-2023-09-16 12:59:56,592.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 12:59:56,593.Perimeter_Listener.INFO  [x] Received 40
-2023-09-16 12:59:56,593.Perimeter_Listener.INFO  [x] Done.
-2023-09-16 13:00:51,600.Perimeter_Listener.INFO  User interrupted continuous listening process.
-2023-09-16 13:00:51,601.Perimeter_Listener.INFO 
+2023-09-16 13:01:37,949.Perimeter_Listener.INFO ==================================================
+2023-09-16 13:01:37,950.Perimeter_Listener.INFO Today is 2023-09-16 at 01:01 PM
+2023-09-16 13:01:37,950.Perimeter_Listener.INFO Running on: nt Windows 10
+2023-09-16 13:01:37,950.Perimeter_Listener.INFO Python version:  3.11.3
+2023-09-16 13:01:37,950.Perimeter_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson\.venv
+2023-09-16 13:01:37,951.Perimeter_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Streaming-04-Bonus-WadeBryson
+2023-09-16 13:01:37,951.Perimeter_Listener.INFO ==================================================
+2023-09-16 13:01:37,968.Perimeter_Listener.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-16 13:01:51,257.Perimeter_Listener.INFO  [x] Received 4
+2023-09-16 13:01:51,258.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:01:54,259.Perimeter_Listener.INFO  [x] Received 8
+2023-09-16 13:01:54,260.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:01:57,273.Perimeter_Listener.INFO  [x] Received 12
+2023-09-16 13:01:57,274.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:02:00,262.Perimeter_Listener.INFO  [x] Received 16
+2023-09-16 13:02:00,263.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:02:03,265.Perimeter_Listener.INFO  [x] Received 20
+2023-09-16 13:02:03,266.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:02:06,267.Perimeter_Listener.INFO  [x] Received 24
+2023-09-16 13:02:06,268.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:02:09,270.Perimeter_Listener.INFO  [x] Received 28
+2023-09-16 13:02:09,271.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:02:12,271.Perimeter_Listener.INFO  [x] Received 32
+2023-09-16 13:02:12,272.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:02:15,274.Perimeter_Listener.INFO  [x] Received 36
+2023-09-16 13:02:15,275.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:02:18,276.Perimeter_Listener.INFO  [x] Received 40
+2023-09-16 13:02:18,278.Perimeter_Listener.INFO  [x] Done.
+2023-09-16 13:02:52,999.Perimeter_Listener.INFO  User interrupted continuous listening process.
+2023-09-16 13:02:53,000.Perimeter_Listener.INFO 
 Closing connection. See you later.
 
